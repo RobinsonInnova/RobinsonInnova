@@ -1,9 +1,9 @@
 # Hola, soy Renato Robinson!
-💻 Me apasiona crear proyectos que reflejen excelencia técnica y propósito. Cada línea de código, para mí, es una obra maestra en construcción.</br>
+💻 Me gusta crear proyectos e imaginar que será de gran ayuda para la comunidad.</br>
 📖 Disfruto leer libros recomendados por la mayoría, buscando siempre ideas que resuenen y transformen. </br>
 ❄️ Prefiero el clima frío: abrigarme me da calma, mientras que el calor me distrae. </br>
 💌 Mi frase favorita: "Controla tus mañanas, impulsa tu vida."</br>
-🎥 Me encanta ver animes, novelas, peliculas. </br>
+🎥 Me encanta ver animes, novelas y peliculas. Se me olvidaba mi novela favorita es Betty la Fea 😃</br>
 
 
 
@@ -21,6 +21,8 @@
   
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/renato_robinsonn/)
 
 
 ## Estadística
