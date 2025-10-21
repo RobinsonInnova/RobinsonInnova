@@ -3,7 +3,7 @@
 📖 Disfruto leer libros recomendados por la mayoría, buscando siempre ideas que resuenen y transformen. </br>
 ❄️ Prefiero el clima frío: abrigarme me da calma, mientras que el calor me distrae. </br>
 💌 Mi frase favorita: "Controla tus mañanas, impulsa tu vida."</br>
-🎥 Me encanta ver animes, novelas y peliculas. Se me olvidaba mi novela favorita es Betty la Fea 😃</br>
+🎥 Me encanta ver animes, novelas y peliculas. Se me olvidaba, mi novela favorita es Betty la Fea 😃</br>
 
 
 
