@@ -2,7 +2,7 @@
 💻 Me gusta crear proyectos e imaginar que será de gran ayuda para la comunidad.</br>
 📖 Disfruto leer libros recomendados por la mayoría, buscando siempre ideas que resuenen y transformen. </br>
 ❄️ Prefiero el clima frío: abrigarme me da calma, mientras que el calor me distrae. </br>
-💌 Mi frase favorita: "Controla tus mañanas, impulsa tu vida."</br>
+💌 Mi frase favorita: "El trabajo que ofreces al mundo refleja el respeto que te tienes a ti mismo"</br>
 🎥 Me encanta ver animes, novelas y peliculas. Se me olvidaba, mi novela favorita es Betty la Fea 😃</br>
 
 
@@ -25,7 +25,5 @@
 
 ## Estadística
 <div align="center">
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=Natzix&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 </div>
